@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 - ⚡ Interested in *Artifical intelligence,* *Machine learning,* and *python*.
-- 🔧 Skilled in *Python,* *C++*. 
+- 🔧 Skilled in *Python,* *C++,* *html*. 
 - 🌱 Currently learning *python*.
 - 🤝 Looking to collaborate on *AI-powered electronics projects*
 
@@ -17,8 +17,8 @@
 ### 🛠 Tech Stack
 | Category | Tools / Languages |
 |-----------|------------------|
-| Programming | Python, C++, C |
-| Tools | Git, VS Code, Jupyter|
+| Programming | Python, C++, C,html |
+| Tools | VS Code, Jupyter,notepad,Devc++|
 
 ---
 
