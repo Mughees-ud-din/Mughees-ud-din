@@ -5,15 +5,15 @@
 
 🧠 About Me
 
-👋 Hi! I'm an Electrical Engineering student with a strong interest in Artificial Intelligence and Machine Learning.
-I enjoy building projects that combine software intelligence with electrical systems.
-
-🔹 Interests: Artificial Intelligence, Machine Learning, Python Programming
-🔹 Skills: Python, C++, HTML
-🔹 Currently Learning: Advanced Python for AI & ML
-🔹 Looking to Collaborate On: AI-powered electrical and smart systems projects
-
-🚀 I’m passionate about learning new technologies and applying them to solve real-world problems.
+👋 Hi! I'm an Electrical Engineering student with a strong interest in Artificial Intelligence and Machine Learning.  
+I enjoy building projects that combine software intelligence with electrical systems.  
+  
+🔹 Interests: Artificial Intelligence, Machine Learning, Python Programming  
+🔹 Skills: Python, C++, HTML  
+🔹 Currently Learning: Advanced Python for AI & ML   
+🔹 Looking to Collaborate On: AI-powered electrical and smart systems projects  
+  
+🚀 I’m passionate about learning new technologies and applying them to solve real-world problems.  
 
 ---
 
