@@ -3,7 +3,7 @@
 
 ---
 
-🧠 About Me
+### 🧠 About Me
 
 👋 Hi! I'm an Electrical Engineering student with a strong interest in Artificial Intelligence and Machine Learning.  
 I enjoy building projects that combine software intelligence with electrical systems.  
