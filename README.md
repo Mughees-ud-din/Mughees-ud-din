@@ -8,6 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Its+Mughees+ud+din" alt="Typing SVG">
   </a>
 </p>
+
 ---
 
 ### 🧠 About Me
