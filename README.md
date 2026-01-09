@@ -1,6 +1,13 @@
-## Hi and welcome 
-## Its Mughees ud din 
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+and+welcome" alt="Typing SVG">
+  </a>
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Its+Mughees+ud+din" alt="Typing SVG">
+  </a>
+</p>
 ---
 
 ### 🧠 About Me
